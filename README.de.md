@@ -1,6 +1,6 @@
 # test-4
 
-Dies ist die deutsche README-Datei.
+Das ist die deutsche README.
 
-Andere Sprachen:
+Weitere Sprachen:
 - Englisch: README.md
